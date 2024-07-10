@@ -1,5 +1,7 @@
 # SoWhat(Kya Boyein) Mobile Application
 
+Link for presentation : https://www.canva.com/design/DAFZJfFcQG8/-Z6vFHRuAP-52Gfp1UR-wQ/edit?utm_content=DAFZJfFcQG8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## OUR TEAM ACE :
 1. Sonali Kumari (BTech ECE-AI, 2nd year, IGDTUW)
 2. Debasmita Mondal (BTech MAE, 2nd year, IGDTUW)
